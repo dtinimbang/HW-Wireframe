@@ -22,10 +22,11 @@
     background: #000000;
     color: white;
     width: 495px;
-    height: 350px;
+    height: 320px;
     font-size: 18px;
     float: left;
     margin-right: 10px;
+    padding-top: 30px;
    
   }
 
@@ -33,40 +34,44 @@
         background: #777;
         color: white;
         width: 90%;
-        height: 65%;
+        height: 60%;
         font-size: 18px;
         position: relative;
         margin-left: 0px;
         margin-top: 50px;
+        padding-top: 30px;
   }
       .h1{
         background: #000000;
         color: white;
         width: 90%;
-        height: 20%;
+        height: 15%;
         font-size:18px;
         margin-top: 75px;
         margin-left: 0px;
         margin-bottom: 10px;
+        padding-top: 5px; 
           }
     
     .p{
         background: #000000;
         color: white;
         width: 90%;
-        height: 20%;
+        height: 15%;
         font-size:18px;
         margin-left: 0px; 
+        padding-top: 5px;
         }
 
   .aside {
     background: #000000;
     color: white;
     width: 400px;
-    height: 350px;
+    height: 320px;
     font-size: 18px;
     float: right;
     margin-bottom: 10px;
+    padding-top: 30px;
   }
 
   body.mrgn{
